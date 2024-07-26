@@ -9,7 +9,12 @@
 - 📫 How to reach me: [Mail](mailto:hyoshida1106@outlook.com) or [X(Twitter)](https://twitter.com/hyoshida1106)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,kotlin,java,linux,windows,git,androidstudio," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=c,cpp,cs,kotlin,java,linux,windows,git,androidstudio" />
+
+## 🖥️ GitView
+
+[GitView](https://github.com/hyoshida1106/gitview) is a Git GUI client tool written in kotlin+JavaFX.
+![img.png](img.png)
 
 <!--
 **hyoshida1106/hyoshida1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
