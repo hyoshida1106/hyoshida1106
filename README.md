@@ -13,7 +13,12 @@
 
 ## 🖥️ GitView
 
-[GitView](https://github.com/hyoshida1106/gitview) is a Git GUI client tool written in kotlin+JavaFX.
+[GitView](https://github.com/hyoshida1106/gitview) is a Git GUI application.
+
+* Written entirely in [Kotlin](https://kotlinlang.org/)
+* Uses [JavaFX(OpenJfx)](https://openjfx.io/) for GUI and [JGit](https://github.com/eclipse-jgit/jgit) as Git library
+* Runs on the JVM, so it can (and should) run on any operating system that supports the JVM.
+
 ![img_en.png](img_en.png)
 
 <!--
