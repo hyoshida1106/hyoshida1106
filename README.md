@@ -11,7 +11,9 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=c,cpp,cs,kotlin,java,linux,windows,git,androidstudio" />
 
-## 🖥️ GitView
+## 🖥️ Original Software
+
+### GitView - Git Client
 
 [GitView](https://github.com/hyoshida1106/gitview) is a Git GUI application.
 
